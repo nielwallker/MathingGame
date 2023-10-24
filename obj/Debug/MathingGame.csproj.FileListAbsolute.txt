@@ -1,0 +1,10 @@
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\MathingGame\bin\Debug\MathingGame.exe.config
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\MathingGame\bin\Debug\MathingGame.exe
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\MathingGame\bin\Debug\MathingGame.pdb
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\MathingGame\obj\Debug\MathingGame.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\MathingGame\obj\Debug\MathingGame.Form1.resources
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\MathingGame\obj\Debug\MathingGame.Properties.Resources.resources
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\MathingGame\obj\Debug\MathingGame.csproj.GenerateResource.cache
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\MathingGame\obj\Debug\MathingGame.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\MathingGame\obj\Debug\MathingGame.exe
+C:\Users\acer\Documents\Kuliah\PMM UIN SUKA\Pemrograman Platform Desktop dan Embedded\MathingGame\obj\Debug\MathingGame.pdb
